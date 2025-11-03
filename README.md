@@ -19,6 +19,7 @@
   🛠 Tools
     <br>
   <img alt="GoogleColab" src ="https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=flat&logo=GoogleColab&logoColor=white"/>
+  <img alt="VScode" src ="https://img.shields.io/badge/vscode-0098FF.svg?&style=flat&logo=VScode&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/>
   
@@ -26,4 +27,7 @@
   <br>
   📞 contact
   <br>
-  <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>  hbyr0613@gmail.com
+  <img alt="Gmail" src ="https://img.shields.io/badge/hbyr0613@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://discord.com/users/848244000694468608" target="_blank">
+     <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+  </a>
