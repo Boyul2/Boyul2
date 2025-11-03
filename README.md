@@ -19,7 +19,7 @@
   <br>
   <br>
    <h4 style="border-bottom"> 📞 Contact  </h4>
-   <a href="https://gmail.com/" target="_blank">
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvrcSRNTqxmGLDRrCKhfHSBHSzxmTcJdRhlJbStHHFJXCZlNWCdqZMdbpTzBSqRxrcmDpL" target="_blank">
       <img alt="Gmail" src ="https://img.shields.io/badge/hbyr0613@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
    </a>
    <a href="https://discord.com/users/848244000694468608" target="_blank">
